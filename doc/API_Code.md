@@ -1,5 +1,5 @@
 ## Resources Base
-> http://192.168.3.144:8080/api/v1<br>
+> http://[hostname]:[port]/api/v1<br>
 
 &nbsp;
 
