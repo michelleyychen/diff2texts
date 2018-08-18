@@ -17,19 +17,19 @@
 > @Produces({"application/json;charset=UTF-8"})<br>
 
 * Response Parameters<br>
-> text : the different string<br>
-> fileNumber : which file the difference belongs to<br>
-> startRow : row number of the string's first character<br>
-> startCol : col number of the string's first character<br>
-> endRow : row number of the string's last character<br>
-> endCol : col number of the string's last character<br>
+> text : &ensp; the different string<br>
+> fileNumber : &ensp; which file the difference belongs to<br>
+> startRow : &ensp; row number of the string's first character<br>
+> startCol : &ensp; col number of the string's first character<br>
+> endRow : &ensp; row number of the string's last character<br>
+> endCol : &ensp; col number of the string's last character<br>
 
 * Response Example (StatusCode 200)<br>
  
 ```
 	
 {
-	"changeDiffList": [
+    "changeDiffList": [
         {
             "endCol": 3,
             "endRow": 3,
