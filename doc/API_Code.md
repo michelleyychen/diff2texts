@@ -85,54 +85,6 @@
             "startCol": 10,
             "startRow": 1,
             "text": "一坨废柴团子！！"
-        },
-        {
-            "endCol": 23,
-            "endRow": 1,
-            "fileNumber": 2,
-            "startCol": 22,
-            "startRow": 1,
-            "text": "寒冬"
-        },
-        {
-            "endCol": 15,
-            "endRow": 3,
-            "fileNumber": 1,
-            "startCol": 14,
-            "startRow": 3,
-            "text": "酷暑"
-        },
-        {
-            "endCol": 5,
-            "endRow": 12,
-            "fileNumber": 1,
-            "startCol": 4,
-            "startRow": 12,
-            "text": "热 "
-        },
-        {
-            "endCol": 30,
-            "endRow": 1,
-            "fileNumber": 2,
-            "startCol": 30,
-            "startRow": 1,
-            "text": "冷"
-        },
-        {
-            "endCol": 9,
-            "endRow": 12,
-            "fileNumber": 1,
-            "startCol": 9,
-            "startRow": 12,
-            "text": "热"
-        },
-        {
-            "endCol": 34,
-            "endRow": 1,
-            "fileNumber": 2,
-            "startCol": 34,
-            "startRow": 1,
-            "text": "冷"
         }
     ]
 }
