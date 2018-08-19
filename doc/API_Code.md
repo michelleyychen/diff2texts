@@ -95,58 +95,38 @@
 &nbsp;
 
 ## Error Code
-0 &ensp; &ensp; &ensp; 请求成功
 
-1 &ensp; &ensp; &ensp; 创建 | 更新成功
-
-2 &ensp; &ensp; &ensp; 删除成功
-
-999 &ensp; 未知错误
-
-1000 &ensp; 参数错误
-
-1001 &ensp; 资源未找到
-
-1002 &ensp; 未经授权(token不合法)
-
-1003 &ensp; token过期
-
-1004 &ensp; scope权限不够
-
-1005 &ensp; 授权失败
-
-1006 &ensp; 客户端类型参数错误
-
-1007 &ensp; 未知的HTTP请求异常
-
-1008 &ensp; 超出限定时间
-
-1009 &ensp; 文件上传错误
-
-2001 &ensp; 在数据库中重复
-
-6000 &ensp; 用户不存在
+| Error Code | Description |
+| :--------: | :---------: |
+| 0 | 请求成功 |
+| 1 | 创建 | 更新成功 |
+| 2 | 删除成功 |
+| 999 | 未知错误 |
+| 1000 | 参数错误 |
+| 1001 | 资源未找到 |
+| 1002 | 未经授权(token不合法) |
+| 1003 | token过期 |
+| 1004 | scope权限不够 |
+| 1005 | 授权失败 |
+| 1006 | 客户端类型参数错误 |
+| 1007 | 未知的HTTP请求异常 |
+| 1008 | 超出限定时间 |
+| 1009 | 文件上传错误 |
+| 2001 | 在数据库中重复 |
+| 6000 | 用户不存在 |
 
 &nbsp;
 
 ## HTTP Status Code
 
-200 &ensp; OK  
-
-201 &ensp; CREATED 
-
-202 &ensp; ACCEPTED  
-
-301 &ensp; MOVED PERMANENTLY  
-
-400 &ensp; BAD REQUEST 
-
-401 &ensp; UNAUTHORIZED 
-
-403 &ensp; FORBIDDEN 
-
-404 &ensp; NOT FOUND  
-
-500 &ensp; INTERNAL SERVER ERROR  
-
-
+| HTTP Status Code | Description |
+| :--------------: | :---------: |
+| 200 | OK |
+| 201 | CREATED |
+| 202 | ACCEPTED |
+| 301 | MOVED PERMANENTLY |
+| 400 | BAD REQUEST |
+| 401 | UNAUTHORIZED |
+| 403 | FORBIDDEN |
+| 404 | NOT FOUND |
+| 500 | INTERNAL SERVER ERROR | 
